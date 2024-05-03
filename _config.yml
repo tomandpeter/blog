@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "我的博客"
 title_separator          : "-"
 subtitle                 : 人生即便是一场梦幻，也不能没有安慰
-name                     : "Your Name"
+name                     : "Benson"
 description              : "MY Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Benson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just a man"
   location         : "Somewhere"
