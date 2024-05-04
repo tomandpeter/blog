@@ -41,10 +41,12 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            :  5 (default)
-    colorscheme          :  "light" (default), "dark"
+# 可选的 colorscheme 值包括 "light" (默认) 和 "dark"
+    colorscheme          :  "light"
   utterances:
-    theme                :  "github-light" (default), "github-dark"
-    issue_term           :  "pathname" (default)
+# 可选的  theme 值包括 "github-light"(默认) 和"github-dark"
+    theme                :  "github-light"
+    issue_term           :  "pathname"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
