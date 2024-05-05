@@ -1,6 +1,6 @@
 ---
 title: "About"
-url: /about/
+permalink: /about/
 layout: single
 ---
 
