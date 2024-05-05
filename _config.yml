@@ -48,7 +48,6 @@ comments:
     theme                :  "github-light"
     issue_term           :  "pathname"
   giscus:
-    repo                 : "tomandpeter/blog-comments"
     repo_id              : "R_kgDOL3PfzA"
     category_name        : "Announcements"
     category_id          : "DIC_kwDOL3PfzM4CfJVs"
@@ -59,7 +58,7 @@ comments:
     input_position       : "bottom"
     emit_metadata        : "0"
     lang                 : "zh-CN"
-    lazy                 : true
+    lazy                 : false
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
